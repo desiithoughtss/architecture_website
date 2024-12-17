@@ -485,3 +485,9 @@ h1 {
     width: 260px;
   }
 }
+
+@media screen and (max-width: 430px) {
+  .two {
+    font-size: 50px;
+  }
+}
